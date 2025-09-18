@@ -6,6 +6,10 @@
  */
 class ezcsseSiteStyleVersion extends eZPersistentObject
 {
+
+    public $Version;
+    public $SiteStyleID;
+
     /**
      * Constructor
      * 

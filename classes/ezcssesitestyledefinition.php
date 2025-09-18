@@ -2,6 +2,11 @@
 
 class ezcsseSiteStyleDefinition extends eZPersistentObject
 {
+
+    public $SiteStyleID;
+    public $Style;
+    public $Version;
+
     /**
      * Constructor
      * 

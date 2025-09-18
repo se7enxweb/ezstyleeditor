@@ -6,6 +6,9 @@
  */
 class ezcsseSiteStyle extends eZPersistentObject
 {
+
+    public $Selected;
+
     /**
      * Constructor
      * 
